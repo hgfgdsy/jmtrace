@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Premain-Class: Premain
+Class-Path:  asm-9.0.jar
+Can-Redefine-Classes: true
+
